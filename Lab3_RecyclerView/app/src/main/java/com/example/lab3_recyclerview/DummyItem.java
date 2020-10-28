@@ -1,8 +1,8 @@
 package com.example.lab3_recyclerview;
 
 public class DummyItem {
-        public final String id;
-        public final String content;
+        public static String id = null;
+        public static String content = null;
         public final String details;
 
         public DummyItem(String id, String content, String details) {
