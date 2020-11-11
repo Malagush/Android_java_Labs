@@ -15,11 +15,15 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         RecyclerView recyclerView = findViewById(R.id.list);
-        RViewAdapter movieAdapter = new RViewAdapter(DummyContent.ITEMS);
-        recyclerView.setAdapter(movieAdapter);
 
         LinearLayoutManager mLayoutManager = new LinearLayoutManager(this);
         recyclerView.setLayoutManager(mLayoutManager);
+
+        RViewAdapter movieAdapter = new RViewAdapter(DummyContent.ITEMS);
+        recyclerView.setAdapter(movieAdapter);
+
+
+
 
     }
 
