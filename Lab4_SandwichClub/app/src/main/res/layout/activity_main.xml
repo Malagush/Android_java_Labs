@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <View
-        android:id="@+id/view"
+        android:id="@+id/viewcolor"
         android:layout_width="219dp"
         android:layout_height="215dp"
         android:layout_marginTop="58dp"
