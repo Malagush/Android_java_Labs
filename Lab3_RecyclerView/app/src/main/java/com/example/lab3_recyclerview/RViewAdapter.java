@@ -6,15 +6,15 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-import java.util.List;
 
 import androidx.recyclerview.widget.RecyclerView;
 
+import java.util.List;
 
 public class RViewAdapter extends RecyclerView.Adapter<RViewAdapter.ViewHolder> {
-    private final List<DummyItem> items;
+    private final List<DummyContent.DummyItem> items;
 
-    RViewAdapter(List<DummyItem> items) {
+    RViewAdapter(List<DummyContent.DummyItem> items) {
         this.items = items;
     }
     @Override
@@ -28,7 +28,7 @@ public class RViewAdapter extends RecyclerView.Adapter<RViewAdapter.ViewHolder> 
         holder.idView.setText(items.get(position).id);
         holder.contentView.setText(items.get(position).content);
         holder.itemView.setTag(items.get(position));
-       holder.itemView.setOnClickListener(onClickListener);
+        holder.itemView.setOnClickListener(onClickListener);
     }
     @Override
     public int getItemCount() { return items.size(); }
@@ -39,21 +39,19 @@ public class RViewAdapter extends RecyclerView.Adapter<RViewAdapter.ViewHolder> 
 
         ViewHolder(View view) {
             super(view);
-            idView = view.findViewById(R.id.idView);
+            idView = view.findViewById(R.id.id_text);
             contentView = view.findViewById(R.id.content);
         }
-
     }
 
     final private View.OnClickListener onClickListener = new View.OnClickListener() {
-       @Override
+        @Override
         public void onClick(View view) {
-           TextView ARG_ITEM_ID = view.findViewById(R.id.ARG_ITEM_ID);
-           DummyItem item = (DummyItem) view.getTag();
+            DummyContent.DummyItem item = (DummyContent.DummyItem) view.getTag();
             Context context = view.getContext();
-           Intent intent = new Intent(context, DetailActivity.class);
-           intent.putExtra(String.valueOf(ARG_ITEM_ID), item.id);
-         context.startActivity(intent);
-       }
+            Intent intent = new Intent(context, DetailActivity.class);
+            intent.putExtra("ARG_ITEM_ID", item.details);
+            context.startActivity(intent);
+        }
     };
 }
