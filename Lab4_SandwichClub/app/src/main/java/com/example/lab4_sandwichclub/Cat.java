@@ -2,9 +2,10 @@ package com.example.lab4_sandwichclub;
 
 import android.graphics.Color;
 import android.util.Log;
-import java.util.ArrayList;
-import java.util.List;
-import com.google.gson.*;
+
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+
 
 public class Cat {
 
@@ -14,13 +15,6 @@ public class Cat {
 
     // Конструктор
     public Cat(){
-        Cat murzik = new Cat();
-        murzik.name = "Мурзик";
-        murzik.age = 9;
-        murzik.color = Color.BLACK;
 
-        GsonBuilder builder = new GsonBuilder();
-        Gson gson = builder.create();
-        Log.i("GSON", gson.toJson(murzik));
     }
 }
