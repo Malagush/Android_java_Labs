@@ -14,116 +14,116 @@
     <string name="detail_error_message">Sandwich data not available</string>
 
     <string-array name="sandwich_names">
-        <item>Ham and cheese sandwich</item>
-        <item>Bosna</item>
-        <item>Chivito</item>
-        <item>Club sandwich</item>
-        <item>Gua bao</item>
-        <item>Medianoche</item>
-        <item>Pljeskavica</item>
-        <item>Roujiamo</item>
-        <item>Shawarma</item>
-        <item>Vada Pav</item>
+        <item> Бутерброд с ветчиной и сыром </item>
+        <item> Босна </item>
+        <item> Чивито </item>
+        <item> Клубный сэндвич </item>
+        <item> Гуа Бао </item>
+        <item> Medianoche </item>
+        <item> Плескавица </item>
+        <item> Руджиамо </item>
+        <item> Шаурма </item>
+        <item> Вада Пав </item>
     </string-array>
 
     <string-array name="sandwich_details">
-        <item>{\"name\":{\"mainName\":\"Ham and cheese
-            sandwich\",\"alsoKnownAs\":[]},\"placeOfOrigin\":\"\",\"description\":\"A ham and cheese
-            sandwich is a common type of sandwich. It is made by putting cheese and sliced ham
-            between two slices of bread. The bread is sometimes buttered and/or toasted. Vegetables
-            like lettuce, tomato, onion or pickle slices can also be included. Various kinds of
-            mustard and mayonnaise are also
-            common.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Grilled_ham_and_cheese_014.JPG/800px-Grilled_ham_and_cheese_014.JPG\",\"ingredients\":[\"Sliced
+        <item>{\"name\":{\"mainName\":\"Ветчина и сыр
+             бутерброд\",\"alsoKnownAs\":[]},\"placeOfOrigin\":\"\",\"description\":\"Ветчина и сыр
+             бутерброд - распространенный вид бутерброда. Его готовят из сыра и нарезанной ветчины.
+             между двумя ломтиками хлеба. Иногда хлеб намазывают маслом и / или поджаривают. Овощи
+             например, салат, помидоры, лук или кусочки маринада также могут быть включены. Различные виды
+             горчица и майонез также
+             общий.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Grilled_ham_and_cheese_014.JPG/800px-Grilled_ham_and_cheese_014.JPG\",\"ingredients\":[\"Sliced
             bread\",\"Cheese\",\"Ham\"]}
         </item>
         <item>
-            {\"name\":{\"mainName\":\"Bosna\",\"alsoKnownAs\":[\"Bosner\"]},\"placeOfOrigin\":\"Austria\",\"description\":\"Bosna
-            is a spicy Austrian fast food dish, said to have originated in either Salzburg or Linz.
-            It is now popular all over western Austria and southern
-            Bavaria.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/c/ca/Bosna_mit_2_Bratw%C3%BCrsten.jpg\",\"ingredients\":[\"White
+            {\"name\":{\"mainName\":\"Босния\",\"alsoKnownAs\":[\"Bosner\"]},\"placeOfOrigin\":\"Austria\",\"description\":\"Босна
+             острое австрийское блюдо быстрого питания, которое, как говорят, возникло в Зальцбурге или Линце.
+             Сейчас он популярен во всей Западной Австрии и на юге страны.
+             Бавария.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/c/ca/Bosna_mit_2_Bratw%C3%BCrsten.jpg\",\"ingredients\":[\"White
             bread\",\"Bratwurst\",\"Onions\",\"Tomato ketchup\",\"Mustard\",\"Curry powder\"]}
         </item>
         <item>
             {\"name\":{\"mainName\":\"Chivito\",\"alsoKnownAs\":[]},\"placeOfOrigin\":\"Uruguay\",\"description\":\"Chivito
-            is a national dish of Uruguay, It is a thin slice of tender cooked beef steak
-            (churrasco), with mozzarella, tomatoes, mayonnaise, black or green olives, and commonly
-            also bacon, fried or hard-boiled eggs and ham, served as a sandwich in a bun, often
-            accompanied by French fried potatoes. Other ingredients, such as red beets, peas,
-            grilled or pan-fried red peppers, and slices of cucumber, may be
-            added.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/4/48/Chivito1.jpg\",\"ingredients\":[\"Bun\",\"Churrasco
+             национальное блюдо Уругвая, это тонкий ломтик нежно приготовленного говяжьего стейка.
+             (чураско), с моцареллой, помидорами, майонезом, черными или зелеными оливками и обычно
+             также бекон, жареные или сваренные вкрутую яйца и ветчина, которые подают в виде бутерброда в булочке, часто
+             в сопровождении французского жареного картофеля. Другие ингредиенты, такие как красная свекла, горох,
+             жареный или обжаренный на сковороде красный перец и ломтики огурца могут быть
+             добавлено.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/4/48/Chivito1.jpg\",\"ingredients\":[\"Bun\",\"Churrasco
             beef\",\"Bacon\",\"Fried or hard-boiled eggs\",\"Ham\",\"Black or green
             olives\",\"Mozzarella\",\"Tomatoes\",\"Mayonnaise\"]}
         </item>
-        <item>{\"name\":{\"mainName\":\"Club sandwich\",\"alsoKnownAs\":[\"Clubhouse
-            sandwich\"]},\"placeOfOrigin\":\"United States\",\"description\":\"A club sandwich, also
-            called a clubhouse sandwich, is a sandwich of bread (occasionally toasted), sliced
-            cooked poultry, fried bacon, lettuce, tomato, and mayonnaise. It is often cut into
-            quarters or halves and held together by cocktail sticks. Modern versions frequently have
-            two layers which are separated by an additional slice of
-            bread.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Club_sandwich.png/800px-Club_sandwich.png\",\"ingredients\":[\"Toasted
+        <item>{\"name\":{\"mainName\":\"Клубный сендвич\",\"alsoKnownAs\":[\"Clubhouse
+            sandwich\"]},\"placeOfOrigin\":\"United States\",\"description\":\"Клубный сэндвич, также
+             называется клубным сэндвичем, представляет собой сэндвич с хлебом (иногда поджаренным), нарезанный
+             приготовленная птица, жареный бекон, салат, помидоры и майонез. Его часто разрезают на
+             четвертинки или половинки и скрепляются коктейльными палочками. Современные версии часто имеют
+             два слоя, которые разделены дополнительным кусочком
+             хлеб.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Club_sandwich.png/800px-Club_sandwich.png\",\"ingredients\":[\"Toasted
             bread\",\"Turkey or chicken\",\"Bacon\",\"Lettuce\",\"Tomato\",\"Mayonnaise\"]}
         </item>
         <item>{\"name\":{\"mainName\":\"Gua bao\",\"alsoKnownAs\":[\"Steamed bao\",\"Pork belly
-            bun\"]},\"placeOfOrigin\":\"Taiwan\",\"description\":\"Gua bao is a Taiwanese snack food
-            consisting of a slice of stewed meat and other condiments sandwiched between flat
-            steamed bread. The steamed bread is typically 6–8 centimetres (2.4–3.1 in) in size,
-            semi-circular and flat in form, with a horizontal fold that, when opened, gives the
-            appearance that it has been sliced. The traditional filling for gua bao is a slice of
-            red-cooked porkbelly, typically dressed with stir-fried suan cai (pickled mustard
-            greens), cilantro, and ground
-            peanuts.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Steamed_Sandwich%2Ctaken_by_LeoAlmighty.jpg/600px-Steamed_Sandwich%2Ctaken_by_LeoAlmighty.jpg\",\"ingredients\":[\"Steamed
+            bun\"]},\"placeOfOrigin\":\"Taiwan\",\"description\":\"Гуа бао - тайваньская закуска.
+             состоящий из кусочка тушеного мяса и других приправ, зажатых между плоскими
+             приготовленный на пару хлеб. Пропаренный хлеб обычно имеет размер 6–8 см (2,4–3,1 дюйма).
+             полукруглая и плоская по форме, с горизонтальной складкой, которая при раскрытии дает
+             вид, что он был нарезан. Традиционная начинка для гуабао - это кусочек
+             свиная грудинка, приготовленная в красном соусе, обычно заправленная жареным суан-цай (маринованная горчица
+             зелень), кинзы и молотые
+             арахис.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Steamed_Sandwich%2Ctaken_by_LeoAlmighty.jpg/600px-Steamed_Sandwich%2Ctaken_by_LeoAlmighty.jpg\",\"ingredients\":[\"Steamed
             bread\",\"Stewed meat\",\"Condiments\"]}
         </item>
-        <item>{\"name\":{\"mainName\":\"Medianoche\",\"alsoKnownAs\":[\"Cuban
-            Sandwich\"]},\"placeOfOrigin\":\"Cuba\",\"description\":\"Medianoche (\\\"midnight\\\"
-            in Spanish) is a type of sandwich which originated in Cuba. It is served in many Cuban
-            communities in the United States. It is so named because of the sandwich\'s popularity
-            asa staple served in Havana\'s night clubs right around or after
-            midnight.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sandwich_de_Medianoche.jpg/800px-Sandwich_de_Medianoche.jpg\",\"ingredients\":[\"Egg
+        <item>{\"name\":{\"mainName\":\"Полночь\",\"alsoKnownAs\":[\"Cuban
+            Sandwich\"]},\"placeOfOrigin\":\"Cuba\",\"description\":\"Медианош (\\\"midnight\\\"
+            in Spanish) - это сэндвич, который появился на Кубе. Его подают во многих кубинских
+             сообщества в Соединенных Штатах. Он назван так из-за популярности сэндвича.
+             как основное блюдо подается в ночных клубах Гаваны сразу или после
+             полночь.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sandwich_de_Medianoche.jpg/800px-Sandwich_de_Medianoche.jpg\",\"ingredients\":[\"Egg
             bread\",\"Roast pork\",\"Ham\",\"Mustard\",\"Swiss cheese\",\"Dill pickles\"]}
         </item>
         <item>
-            {\"name\":{\"mainName\":\"Pljeskavica\",\"alsoKnownAs\":[]},\"placeOfOrigin\":\"Serbia\",\"description\":\"Pljeskavica,
-            a grilled dish of spiced meat patty mixture of pork, beef and lamb, is a national dish
-            of Serbia, also popular in Bosnia and Herzegovina and Croatia. It is a main course
-            served with onions, kajmak (milk cream), ajvar (relish), and urnebes (spicy cheese
-            salad), either on plate with side dishes, or with lepinja (flatbread, as a type of
-            hamburger). Recently, Pljeskavica has gained popularity elsewhere in Europe and is
-            served in a few speciality fast food restaurants in Germany, Sweden, and
-            Austria.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pljeskavica_%286883073017%29.jpg/800px-Pljeskavica_%286883073017%29.jpg\",\"ingredients\":[\"Two
+            {\"name\":{\"mainName\":\"Гамбургер\",\"alsoKnownAs\":[]},\"placeOfOrigin\":\"Serbia\",\"description\":\"Плескавица,
+             приготовленное на гриле блюдо из приправленной пряным мясом котлеты из свинины, говядины и баранины - национальное блюдо
+             Сербии, также популярны в Боснии и Герцеговине и Хорватии. Это основное блюдо
+             подается с луком, каймаком (молочными сливками), айваром (приправой) и урнебесом (острым сыром
+             салат), либо на тарелке с гарниром, либо с лепиней (лепешками, как разновидность
+             гамбургер). В последнее время Плескавица приобрела популярность в других странах Европы.
+             подается в нескольких специализированных ресторанах быстрого питания в Германии, Швеции и
+             Австрия.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pljeskavica_%286883073017%29.jpg/800px-Pljeskavica_%286883073017%29.jpg\",\"ingredients\":[\"Two
             or more of beef, lamb, pork, veal\",\"Onions\",\"Bread crumbs\",\"Lard\"]}
         </item>
         <item>{\"name\":{\"mainName\":\"Roujiamo\",\"alsoKnownAs\":[\"Rougamo\",\"Rou jia
             mo\"]},\"placeOfOrigin\":\"China\",\"description\":\"Roujiamo, meaning \\\"meat
-            burger\\\" or \\\"meat sandwich\\\", is a street food originating from the cuisine of
-            Shaanxi Province and now widely consumed all over China. The meat is most commonly pork,
-            stewed for hours in a soup containing over 20 spices and seasonings. Although it is
-            possible to use only a few spices (which many vendors do), the resulting meat is less
-            flavourful.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Roujiamo.jpg/800px-Roujiamo.jpg\",\"ingredients\":[\"Pork\",\"bread\"]}
+            burger\\\" or \\\"meat sandwich\\\", это уличная еда, происходящая из кухни
+             Провинция Шэньси и сейчас широко потребляется по всему Китаю. Мясо - чаще всего свинина,
+             тушится часами в супе, содержащем более 20 специй и приправ. Хотя это
+             можно использовать только несколько специй (что и делают многие продавцы), в результате получается меньше мяса
+             ароматный.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Roujiamo.jpg/800px-Roujiamo.jpg\",\"ingredients\":[\"Pork\",\"bread\"]}
         </item>
-        <item>{\"name\":{\"mainName\":\"Shawarma\",\"alsoKnownAs\":[]},\"placeOfOrigin\":\"Middle East,
-            Levant\",\"description\":\"Shawarma also spelled shawurma or shawerma, is a Levantine
-            meat preparation, where lamb, chicken, turkey, beef, veal, or mixed meats are placed on
-            a spit (commonly a vertical spit in restaurants), and may be grilled for as long as a
-            day. Shavings are cut off the block of meat for serving, and the remainder of the block
-            of meat is kept heated on the rotating spit. Shawarma can be served on a plate
-            (generally with accompaniments), or as a sandwich or wrap. Shawarma is usually eaten
-            with tabbouleh, fattoush, taboon bread, tomato, and cucumber. Toppings include tahini,
-            hummus, pickled turnips, and
-            amba.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/D%C3%B6ner_kebap.jpg/800px-D%C3%B6ner_kebap.jpg\",\"ingredients\":[\"Shawarma
+        <item>{\"name\":{\"mainName\":\"Шаурма\",\"alsoKnownAs\":[]},\"placeOfOrigin\":\"Middle East,
+            Levant\",\"description\":\"Шаурма также пишется как шавурма или шаверма, это левантийский язык.
+             мясные изделия, на которые кладут баранину, курицу, индейку, говядину, телятину или мясную смесь
+             вертел (обычно вертикальный вертел в ресторанах), и его можно жарить до тех пор, пока
+             день. Кусок мяса для подачи на стол срезается стружкой, а оставшаяся часть блока
+             мяса нагревается на вращающемся вертеле. Шаурму можно подавать на тарелке
+             (обычно с аккомпанементами), или в виде бутерброда или упаковки. Шаурму обычно едят
+             с табуле, фаттушем, табиным хлебом, помидорами и огурцами. Начинки включают тахини,
+             хумус, маринованная репа и
+             амба.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/D%C3%B6ner_kebap.jpg/800px-D%C3%B6ner_kebap.jpg\",\"ingredients\":[\"Shawarma
             meat (lamb, chicken, turkey, beef) or shawarma falafel\",\"Pita or wrap
             bread\",\"Chopped or shredded vegetables\",\"Pickles\",\"Assorted condiments\"]}
         </item>
         <item>{\"name\":{\"mainName\":\"Vada Pav\",\"alsoKnownAs\":[\"Bombay Burger\",\"Vada
             Pao\",\"Wada Pav\",\"Wada Pao\",\"Pao Vada\",\"Pav Vada\",\"Pao Wada\",\"Pav
-            Wada\"]},\"placeOfOrigin\":\"India\",\"description\":\"Vada Pav is a vegetarian fast
-            food dish native to the Indian state of Maharashtra. The dish consists of a deep fried
-            potato dumpling placed inside a bread bun (pav) sliced almost in half through the
-            middle. It is generally accompanied with one or more chutneys and a green chilli pepper.
-            It originated as cheap street food in Mumbai, but is now served in food stalls and
-            restaurants across India. It is also called Bombay Burger in keeping with its origins
-            and its resemblance in physical form to a
-            burger.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/1/15/Vada_Paav-The_Mumbai_Burger.jpg\",\"ingredients\":[\"Deep-fried
+            Wada\"]},\"placeOfOrigin\":\"India\",\"description\":\"Вада Пав - вегетарианский пост
+             блюдо родом из индийского штата Махараштра. Блюдо состоит из жареного во фритюре.
+             картофельные клецки, помещенные внутрь хлебной булочки (пав), разрезанные почти пополам через
+             средний. Обычно он сопровождается одним или несколькими чатни и зеленым перцем чили.
+             Она возникла как дешевая уличная еда в Мумбаи, но теперь ее подают в продуктовых киосках и
+             рестораны по всей Индии. Его также называют Bombay Burger в соответствии с его происхождением.
+             и его физическое сходство с
+             бургер.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/1/15/Vada_Paav-The_Mumbai_Burger.jpg\",\"ingredients\":[\"Deep-fried
             mashed potato patty\",\"chilli peppers\",\"garlic\",\"ginger\",\"bread bun\"]}
         </item>
     </string-array>
